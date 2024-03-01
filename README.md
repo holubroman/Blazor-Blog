@@ -49,9 +49,3 @@
 > [Building Blog App with Blazor Server - YouTube](https://www.youtube.com/playlist?list=PLlgYGDJXMjDZa3WCMX31rkyKo6wXUL8qf)
 
 -------------------------------
-## Support Me
-> If you like my content and want to support me, 
-> 
-> Star this Repository
-> 
-> <a href="https://www.buymeacoffee.com/abhayprince" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
